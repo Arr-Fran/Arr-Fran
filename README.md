@@ -1,5 +1,5 @@
 <div align="center">
-   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
+   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true" />
 </div>
 
 <h3 align="center">
@@ -22,10 +22,18 @@
 </a>
 
 </div>
+
 <br>
+
+### 👨‍💻 About me
+- 🎓 Técnico Superior en Desarrollo de Software  
+- 📚 Estudiante de inglés  
+- 🚀 Apasionado por la tecnología y la innovación  
+- 🤝 Buscando colaborar en proyectos interesantes  
+
 <br>
-<br>
-<h4>Tecnologías con las que trabajé en diferentes proyectos</h4>
+
+### 🛠️ Tecnologías con las que trabajé en diferentes proyectos
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,cpp,css,figma,github,html,js,mysql,nodejs,py,vscode" />
