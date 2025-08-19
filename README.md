@@ -21,11 +21,13 @@
 <img src="https://img.shields.io/badge/instagram-%ff5851db.svg?color=C13584&style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" style="margin-bottom: 5px;" />
 </a>
 
+<img src="https://flagcdn.com/w20/ar.png" width="20"/>
+
 </div>
 
 <br>
 
-### <img src="https://flagcdn.com/w20/ar.png" width="20"/> About me
+### 👨‍💻 About me
 - 🎓 Higher Technician in Software Development  
 - 📚 English learner  
 - 🚀 Passionate about technology and innovation  
