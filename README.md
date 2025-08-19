@@ -25,7 +25,7 @@
 
 <br>
 
-### 🇦🇷 About me
+### <img src="https://flagcdn.com/w20/ar.png" width="20"/> About me
 - 🎓 Higher Technician in Software Development  
 - 📚 English learner  
 - 🚀 Passionate about technology and innovation  
