@@ -25,15 +25,15 @@
 
 <br>
 
-### 👨‍💻 About me
-- 🎓 Técnico Superior en Desarrollo de Software  
-- 📚 Estudiante de inglés  
-- 🚀 Apasionado por la tecnología y la innovación  
-- 🤝 Buscando colaborar en proyectos interesantes  
+### 🇦🇷 About me
+- 🎓 Higher Technician in Software Development  
+- 📚 English learner  
+- 🚀 Passionate about technology and innovation  
+- 🤝 Open to collaborate on interesting projects  
 
 <br>
 
-### 🛠️ Tecnologías con las que trabajé en diferentes proyectos
+### 🛠️ Technologies I have worked with in different projects
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
