@@ -34,6 +34,7 @@
 <br>
 
 ### 🛠️ Tecnologías con las que trabajé en diferentes proyectos
+<br>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,cpp,css,figma,github,html,js,mysql,nodejs,py,vscode" />
